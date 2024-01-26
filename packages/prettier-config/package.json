@@ -1,0 +1,19 @@
+{
+  "name": "@seop/prettier-config",
+  "version": "1.0.0",
+  "description": "My custon Prettier config",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uiseop/custom-config-kit.git"
+  },
+  "author": "seop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uiseop/custom-config-kit/issues"
+  },
+  "homepage": "https://github.com/uiseop/custom-config-kit#readme"
+}
