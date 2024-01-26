@@ -1,0 +1,25 @@
+{
+  "name": "@seop/eslint-config",
+  "version": "1.0.0",
+  "description": "My custom ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uiseop/custom-config-kit.git"
+  },
+  "author": "seop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uiseop/custom-config-kit/issues"
+  },
+  "homepage": "https://github.com/uiseop/custom-config-kit#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.19.1",
+    "@typescript-eslint/parser": "^6.19.1",
+    "eslint": "^8.56.0",
+    "eslint-plugin-react": "^7.33.2"
+  }
+}
