@@ -1,8 +1,11 @@
 {
-  "name": "@seop/prettier-config",
-  "version": "1.0.0",
+  "name": "@ee_seop/prettier-config",
+  "version": "1.0.4",
   "description": "My custon Prettier config",
-  "main": "index.js",
+  "main": "index.json",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "jest"
   },
